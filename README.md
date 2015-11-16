@@ -14,8 +14,8 @@ What is the largest prime factor of the number 600851475143 ?
 The easiest way to download the needed files is to clone the entire repository from your personal account. You will need to install [Git](https://help.github.com/articles/set-up-git) for this. 
 
 ```
-git clone https://github.com/USERNAME/ProjectEuler-0001.git
-cd ProjectEuler-0001
+git clone https://github.com/USERNAME/ProjectEuler-####.git
+cd ProjectEuler-####
 ```
 
 ### Adding New Solution
